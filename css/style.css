@@ -23,6 +23,7 @@ font-family: 'Montserrat', sans-serif;*/
 .navbar-default{
 	background-color: transparent;
 	border-color: transparent;
+	position: fixed;
 }
 .primera{
 	background-image: url(../assets/img/header-bg.jpg);
@@ -57,4 +58,35 @@ font-family: 'Montserrat', sans-serif;*/
 }
 .centro{
 	padding: 100px;
+}
+.negrita{
+	font-weight: bold;
+}
+.gris{
+	color: grey;
+}
+.chica{
+	font-size: 11px;
+}
+.fa-laptop, .fa-shopping-cart{
+	color: white;
+	background-color: #fec503;
+	font-size: 40px;
+	padding: 10px;
+	border-radius: 40px;
+}
+.fa-lock{
+	color: white;
+	background-color: #fec503;
+	font-size: 40px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 40px;
+}
+.segunda{
+	padding: 100px;
+}
+.separado{
+	padding-top: 50px;
 }
