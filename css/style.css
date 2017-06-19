@@ -90,3 +90,15 @@ font-family: 'Montserrat', sans-serif;*/
 .separado{
 	padding-top: 50px;
 }
+.tercera{
+	background-color: whitesmoke;
+}
+.portafolio{
+	background-color: white;
+}
+.tercera{
+	padding: 50px;
+}
+.imagen{
+	background-size: cover;
+}
