@@ -85,10 +85,10 @@ font-family: 'Montserrat', sans-serif;*/
 	border-radius: 40px;
 }
 .segunda{
-	padding: 100px;
+	padding: 50px;
 }
 .separado{
-	padding-top: 50px;
+	padding-top: 30px;
 }
 .tercera{
 	background-color: whitesmoke;
@@ -99,6 +99,11 @@ font-family: 'Montserrat', sans-serif;*/
 .tercera{
 	padding: 50px;
 }
-.imagen{
-	background-size: cover;
+
+.abajo{
+	margin-bottom: 30px;
+}
+.espacio{
+	margin-bottom: 20px;
+	padding: 0 auto;
 }
